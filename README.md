@@ -46,7 +46,7 @@ The dataset used for this project includes customer order data, product details,
 - **ROC Curve**:Evaluated the performance of the machine learning model used for churn prediction. A higher area under the curve (AUC) indicates better model performance
 - **Elbow Method**: Used to determine the optimal number of clusters for customer segmentation, helping to define meaningful customer groups
 - **Correlation Heatmap**: Showed correlations between various product and customer features, identifying key factors that influence purchasing behavior
-- 
+  
 These plots can be found in the `pythonplots` folder in this repository.
   
 ## 📈 Dashboards
