@@ -34,9 +34,9 @@ The dataset used for this project includes customer order data, product details,
 - **Elbow Method**: Determined the optimal number of clusters for customer segmentation (see image below)
 - **Correlation Heatmap**: Showed correlations between various product and customer features
 
-![ROC Curve] ()
-![Elbow Method] ()
-![Correlation Heatmap] ()
+![ROC Curve] (./pythonplots/Correlation Heatmap.png)
+![Elbow Method] (./pythonplots/Elbow Method for Finding Optimal k.png)
+![Correlation Heatmap] (./pythonplots/Receiver Operating Characteristic (ROC) Curve.png)
 
 ## 📈 Dashboards
 
