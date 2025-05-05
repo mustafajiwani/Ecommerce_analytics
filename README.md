@@ -2,22 +2,35 @@
 
 This end-to-end data analytics project focuses on understanding customer behavior, product performance, and time-based order trends for an e-commerce platform using Python, SQL, and Tableau.
 
-## 📊 Tools Used
-
-- **Python**: Exploratory Data Analysis, Visualizations, Machine Learning
-- **SQL (MySQL)**: Complex queries for user segmentation, reorder patterns, product affinity, and time-based trends
-- **Tableau**: Interactive dashboards for business insights
-
 ## Data Description
 
 The dataset used for this project includes customer order data, product details, and departmental information. It was provided as a CSV file, which was processed, cleaned, and analyzed.
+
+## 📊 Tools Used
+
+- **Python**
+- **SQL (MySQL)**
+- **Tableau**
 
 ## 📁 Project Structure
 
 - `Ecommerce.sql` – All SQL queries used for analysis
 - `Ecommerce_Analysis.py` – Python code for EDA and ML
 - `Ecommerce dataset Portfolio.twbx` – Tableau workbook with all dashboards
-- `dashboard_screenshots/` – PNG snapshots of the Tableau dashboards
+- `dashboard_screenshots` – PNG snapshots of the Tableau dashboards
+- `pythonplots` - PNG snapshots of the python visualizations
+
+## 🚀 Project Overview
+
+- Used SQL (20+ queries) for behavioral insights like reorder trends, cart size, time-based patterns, churn risk, etc.
+- Performed data cleaning, EDA, and machine learning (reorder prediction) using Python.
+- Created 5 interactive Tableau dashboards using visualized datasets.
+
+## 🧠 Skills Used
+
+- SQL: Joins, CTEs, window functions, aggregations
+- Python: Pandas, seaborn, matplotlib, scikit-learn
+- Tableau: Charts, filters, calculated fields, dashboard design
 
 ## 🔍 Key Insights
 
