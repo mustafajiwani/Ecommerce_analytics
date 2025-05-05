@@ -34,7 +34,7 @@ The dataset used for this project includes customer order data, product details,
 - **Elbow Method**: Determined the optimal number of clusters for customer segmentation (see below)
 - **Correlation Heatmap**: Showed correlations between various product and customer features (see below)
 
-- `pythonplots/` - PNG snapshots of above mentioned python visualizations
+These plots can be found in the `pythonplots` folder in this repository.
   
 ## 📈 Dashboards
 
