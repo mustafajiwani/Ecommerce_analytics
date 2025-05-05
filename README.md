@@ -15,7 +15,7 @@ The dataset used for this project includes customer order data, product details,
 ## 📁 Project Structure
 
 - `Ecommerce.sql` – All SQL queries used for analysis
-- `Ecommerce_Analysis.py` – Python code for EDA and ML
+- `Ecommerce Analysis.py` – Python code for EDA and ML
 - `Ecommerce dataset Portfolio.twbx` – Tableau workbook with all dashboards
 - `dashboard_screenshots` – PNG snapshots of the Tableau dashboards
 - `pythonplots` - PNG snapshots of the python visualizations
