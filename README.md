@@ -30,14 +30,12 @@ The dataset used for this project includes customer order data, product details,
 
 ## Python Analysis and Visualizations
 
-- **ROC Curve**:Evaluated machine learning model performance (see image below)
-- **Elbow Method**: Determined the optimal number of clusters for customer segmentation (see image below)
-- **Correlation Heatmap**: Showed correlations between various product and customer features
+- **ROC Curve**:Evaluated machine learning model performance (see below)
+- **Elbow Method**: Determined the optimal number of clusters for customer segmentation (see below)
+- **Correlation Heatmap**: Showed correlations between various product and customer features (see below)
 
-![ROC Curve] (./pythonplots/Correlation Heatmap.png)
-![Elbow Method] (./pythonplots/Elbow Method for Finding Optimal k.png)
-![Correlation Heatmap] (./pythonplots/Receiver Operating Characteristic (ROC) Curve.png)
-
+- `pythonplots/` - PNG snapshots of above mentioned python visualizations
+  
 ## 📈 Dashboards
 
 View full Tableau dashboards here:  
