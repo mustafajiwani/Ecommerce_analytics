@@ -103,7 +103,7 @@ ORDER BY reorder_rate DESC;
 
 -- Reorder Rate per Product
 SELECT product_name, 
-	   COUNT(*) AS total_orders, 
+       COUNT(*) AS total_orders, 
        SUM(reordered) AS total_reorders, 
        ROUND(SUM(reordered)/COUNT(*),2) AS reorder_rate
 FROM ecommerce_dataset
@@ -121,7 +121,7 @@ GROUP BY reordered;
 
 -- User Reorder Tendencies by Department (Which users are most likely to reorder products in a specific department?)
 SELECT 
-	user_id, 
+    user_id, 
     department,
     COUNT(*) AS total_items,
     SUM(reordered) AS total_reorders,
@@ -134,7 +134,7 @@ LIMIT 20;
 
 -- Department Activity by Day of Week
 SELECT 
-	department, 
+    department, 
     order_dow,
     COUNT(DISTINCT order_id) AS total_orders
 FROM ecommerce_dataset
