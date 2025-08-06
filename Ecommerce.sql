@@ -2,7 +2,7 @@ CREATE DATABASE ecommerce_project;
 USE ecommerce_project;
 
 CREATE TABLE ecommerce_dataset (
-	order_id INT,
+    order_id INT,
     user_id INT,
     order_number INT,
     order_dow INT,
